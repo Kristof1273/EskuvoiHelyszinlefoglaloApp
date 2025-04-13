@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853113672438",
+    "project_id": "eskuvoihelyszinlefoglaloapp",
+    "storage_bucket": "eskuvoihelyszinlefoglaloapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853113672438:android:5979cc6273f0ef70ec52d7",
+        "android_client_info": {
+          "package_name": "com.example.eskuvoihelyszinlefoglaloapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthrzhTKkuYHhl0X2yTwbM-D_7oHpyi90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
